@@ -11,7 +11,8 @@ module, which refines consecutive video frames guided by the question semantics 
 ![Image](Images/VCSR.png)        
 Figure 1: Framework of our proposed VCSR.        
 
-Codes will be available soon!
+### Code
+Codes will be available ASAP! Stay tuned!
 
 ### Citation
 If you use this code for your research, please cite our paper.      
